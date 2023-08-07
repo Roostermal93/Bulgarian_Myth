@@ -1,5 +1,5 @@
 {
-    "count": 1,
+    "count": 4,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,27 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Bulgarian/1d872973-ce3b-4c83-af4f-e203ccc063f9_ru_Male.mp4"
+        },
+        {
+            "id": "cc5e19ce-f708-435b-a74d-19f290247e1c",
+            "collectionId": "Bulgarian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Bulgarian/cc5e19ce-f708-435b-a74d-19f290247e1c_bg_Female.mp4"
+        },
+        {
+            "id": "6da13c00-a22e-4f13-9fbc-0f1ad4c4cd46",
+            "collectionId": "Bulgarian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Bulgarian/6da13c00-a22e-4f13-9fbc-0f1ad4c4cd46_bg_Female.mp4"
+        },
+        {
+            "id": "83dad4c3-7d6e-4c4b-8117-b569e82ba936",
+            "collectionId": "Bulgarian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Bulgarian/83dad4c3-7d6e-4c4b-8117-b569e82ba936_bg_Female.mp4"
         }
     ]
 }
